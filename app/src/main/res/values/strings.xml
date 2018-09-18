@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">JDE</string>
+    <string name="linien_paar">Wähle ein Linienpaar</string>
+    <string name="button_send">22/23</string>
+    <string name="button_send1">24/25</string>
+    <string name="button_send2">26/27</string>
+    <string name="button_send3">28/29</string>
+    <string name="d_22">22</string>
+    <string name="d_23">23</string>
+    <string name="d_24">24</string>
+    <string name="d_25">25</string>
+    <string name="d_26">26</string>
+    <string name="d_27">27</string>
+    <string name="d_28">28</string>
+    <string name="jdemhd">tt mm jjjj</string>
+    <string name="jdelot">LXB22JWWTS</string>
+    <string name="jdefabo">FABO</string>
+    <string name="jdelinie">REST</string>
+    <string name="jdeort">LXB</string>
+    <string name="jdestueck">Rest</string>
+    <string name="jdebox"> BX </string>
+    <string name="jdegramm">\u0020gramm</string>
+    <string name="jdegewicht">Gramm</string>
+    <string name="jdemitweg">mit Weg</string>
+    <string name="jdeohneweg">ohne Weg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
