@@ -4,7 +4,7 @@ package com.example.tequilagrexit.jde;
 public class jdeLinie extends jdeEntgasungsbehälter{
     final int Faktor[] = {10, 13, 13, 13, 13, 13, 12, 12} ;
     final int Trichter[] = {350, 0, 0, 0, 0, 0, 300, 350};
-    final int Strecke[] = {50, 300, 300, 300, 300, 300, 55, 100};
+    final int Strecke[] = {50, 300, 300, 400, 300, 300, 55, 100};
     int faktor;
     int trichter;
     int strecke;
