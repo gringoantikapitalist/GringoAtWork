@@ -27,6 +27,7 @@ public class GrammPickerDialog extends DialogFragment {
     int t1;
      //static final String OUT_SCORE = "outScore";
    // Activity activity = getActivity();
+    // 09.01.2020
 
 
      @Override
